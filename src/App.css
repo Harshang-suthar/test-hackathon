@@ -1,0 +1,52 @@
+
+
+
+#G20Imag{
+  height: 70px ;
+}
+
+#GujPolice{
+  height: 70px;
+}
+
+
+
+
+
+
+
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: #ff6a00;
+}
+.off {
+  color: #303030;
+}
+
+/* to hide number input up and down Arrow  */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+
+#submit{
+  background-color:rgb(57, 199, 255);
+  
+}
+
+#submit:hover{
+     background-color: rgb(0, 183, 255);
+   
+}
